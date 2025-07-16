@@ -72,10 +72,13 @@ The current model (emotion_cnn_model.h5) is trained on the FER-2013 dataset. If 
 
 python
 
-# Load dataset
-# Build your CNN model
-# Compile and train
-# Save model using model.save('emotion_cnn_model.h5')
+ Load dataset
+
+ Build your CNN model
+
+ Compile and train
+
+ Save model using model.save('emotion_cnn_model.h5')
 
 
 ---
