@@ -82,8 +82,10 @@ python
 
 
 🙋‍♂️ Author
-Innocent Lier
+Rajwant Raj
+
 🎓 Deep Learning Enthusiast | Student Developer
+
 📫 LinkedIn | GitHub
 
 
